@@ -2,7 +2,6 @@
 
 # 💫 About Me:
 ### Hi there 👋, I'm Muhammed Batuhan!
-![](https://miro.medium.com/v2/resize:fit:828/format:webp/0*-M9ia2gwTlMc_jhb)
 <img width="2048" height="859" alt="Gemini_Generated_Image_ejritmejritmejri" src="https://github.com/user-attachments/assets/f631ba8d-f9d6-4a7d-8abc-3cd2dd7f709b" />
 
 I am an engineering student aiming to improve my skills in software development. Currently, I am working with JavaScript, Java, and Python. Additionally, I am developing various projects on Linux.
